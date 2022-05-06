@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{max-width: 1500px;}
+li{list-style: none; display: inline;}
+li a{text-decoration: none;}
+.menu{display: flex; justify-content: space-between;}
+.form{width: 200px; border: 2px solid #000;}
+.container{display: flex;}
+.conl{width: 50%;}

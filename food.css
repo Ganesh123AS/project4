@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{background: #fff; max-width: 1900px; margin: auto;}
+h1{font-family: 'Quicksand', sans-serif;}
+.btn{text-decoration: none; padding: 11px; background: #F46A06; color: #fff; width: 120px; height: 40px;}
+li{ display: inline; padding: 10px;}
+a{text-decoration: none; color: #F46A06;}
+.menu{display: flex; justify-content: space-between; padding: 22px 40px;}
+.nav{padding-top: 14px; margin-left: 500px;}
+.content{margin: 40px; display: flex; justify-content: space-between;}
+.con{width: 27%;}
+.img img{width: 502px; height: 502px; margin:0px 75px;}
+.con h1{padding-top: 75px;}
+.con p{padding: 55px 0px;}
+.num{background: #F46A06; display: flex; justify-content: space-evenly; height: 165px;}
+.num1 {font-weight: 700; color: #fff; padding: 40px 0px; font-size: 40px}
+.num1 p{font-size: 14px; padding-left: 20px;}
+.brief1{display: flex; margin-top: 26px}
+.brief1 img{width: 653px; height: 435.33px;}
+.brief2{display: flex; justify-content: space-evenly; margin-top: 40px;}
+.brief2 img{width: 682px; height: 682px;}
+.brief2 p{padding:22px 0px;}
+.brief3{background: url(brief3.png); height: 402px; color: #fff; text-align: center;}
+.brief3 h1{color: #F46A06;}
+.brief3 p{padding-top: 12px;}
+.brief3 .con{width: 100%;}
+.brief4{text-align: center; width: 75%; padding-top: 99px; padding-left: 300px;}
+.brief4 h2{font-size: 36px;}
+.brief4 p{font-size: 16px; padding-top: 14px; line-height: 26px;}
+.brief5{display: flex; justify-content: space-evenly; padding-top: 22px;}
+.con1 h1{font-size: 16px;}
+.con1 h4{font-size: 12px;}
+.brief6{height: 700px; background: #F46A06; text-align: center; margin-top: 35px; padding: 32px;}
+.con2{height: 325px; width: 1140px; background-color: #fff; margin:75px; padding-top: 52px}
+.con2 p{padding:22px;}
+/*-- Start of footer Section --*/
+.footer{background: #333333; color: #fff; }
+.footer li{list-style: none;}
+.footer li a{text-decoration: none;  color: #fff; font-size: 16px; font-weight: 500; text-align: left;}
+.footer li a:hover{color: #FF9A21;}
+.footer h2{font-size: 25px; font-weight: 600;}
+.footer p{font-size: 15px; font-weight: 300;}
+.footer .container ul{padding-left: 0px;}
+.sub-footer{border-top: 1px solid rgb(145, 144, 144); text-align: center;}
+.sub-footer h1{font-size: 24px; font-weight: 400;  line-height: 120px;}
+.sub-footer span{color: #FF9A21;}
+.row{ margin: 0px 10px; padding-left: 8px;}
+.col-lg-3{margin: 30px 95px; padding: 0px;}
+/*-- Start of footer Section --*/
